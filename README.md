@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.kinja-img.com/gawker-media/image/upload/t_original/pwl9mwg0qu5vdagwstde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/1b/2f/691b2fbaf4441993d8041f9d538eeacf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
 
