@@ -1,9 +1,9 @@
-[![MasterHead](https://th.bing.com/th/id/R.f5262bcf432067dbc40a0ae36b0d1c21?rik=6Kqv892MSl1ndA&riu=http%3a%2f%2fcareers.insightconsultants.co%2fwp-content%2fuploads%2f2020%2f09%2f1_sV60JhlYL4IdWjcNvKTJRA.png&ehk=0eAMSstIJeDVyZ9QOdrou%2fVVzmF9b%2bHuNcj%2fYzTOXkg%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
 
-<img align="right"    alt="Coding" width="400" src="https://kfg6bckb.media.zestyio.com/vue-examples-2019.d06ee69124883ed72529638e874e0fd7.jpg">
+<img align="right"    alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.8PNZ5md7xGUhldjUXHyw0wHaFn?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
 
