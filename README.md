@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
 
-<img align="right"    alt="Coding" width="400" src="https://wallpaperaccess.com/full/3288298.jpg">
+<img align="right"    alt="Coding" width="400" src="https://wallpapercave.com/wp/wp2324672.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
 
