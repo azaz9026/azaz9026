@@ -5,7 +5,7 @@
 
 <img align="right"    alt="Coding" width="400" src="https://yt3.ggpht.com/a/AATXAJxnG_dGeCroC-Oz7fsVmv6DWq133LerN7Xuvw=s900-c-k-c0xffffffff-no-rj-mo">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
 
 - 🔭 I’m currently working on [Backend Project](https://github.com/azaz9026/Complete-Restful-CRUD-APIs-)
 
