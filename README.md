@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Next.Js Project](https://github.com/azaz9026/CRUD-in-Next.JS)
 
-- 🌱 I’m currently learning **backend with Node.js and Express..**
+- 🌱 I’m currently learning **Frontend With React.Js and Next Js..**
 
 - 💬 Ask me about **vite.js and gsap**
 
