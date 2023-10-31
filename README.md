@@ -9,7 +9,7 @@
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=azaz9026&label=Profile%20views&color=0e75b6&style=flat" alt="azaz9026" /> </p>
 
-- 🔭 I’m currently working on [React.Js Project](https://github.com/azaz9026/CRUD-in-Next.JS)
+- 🔭 I’m currently working on [Express.js Project](https://github.com/azaz9026/CRUD-in-Next.JS)
 
 - 🌱 I’m currently learning **Frontend With React.Js and Next Js..**
 
