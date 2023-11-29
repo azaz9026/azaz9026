@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/azaz9026/main/Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1).png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/azaz9026/azaz9026/main/Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1).png"> </div>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently working on **Express.js Project**
