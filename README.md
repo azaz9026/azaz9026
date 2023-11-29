@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/azaz9026/azaz9026/main/Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1).png"> </div>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 - 🔭 I’m currently working on **Express.js Project**
 
