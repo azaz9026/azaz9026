@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-- 🔭 I’m currently working on **Express.js Project**
+- 🔭 I’m currently working on **Data Analysis Project**
 
-- 🌱 I’m currently learning **Frontend With React.Js and Next Js..**
+- 🌱 I’m currently learning **Python Frameworks**
 
 - 💬 Ask me about **vite.js and gsap**
 
