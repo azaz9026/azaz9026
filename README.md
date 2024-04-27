@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
-- 🌱 I’m currently learning **Python Frameworks**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 💬 Ask me about **vite.js and gsap**
+- 💬 Ask me about **Data Science and Analysis **
 
 - 📫 How to reach me **mdazaz9026@gmail.com**
 
