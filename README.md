@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Azaz</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/azaz9026/azaz9026/main/Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1).png"> </div>
+<div align="center"> <img src="https://github.com/azaz9026/azaz9026/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner%20(1).png"> </div>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/azaz9026/azaz9026/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner%20(1).png">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/2800/0*hpyUPaBF9V3Mb5T6.gif">
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
